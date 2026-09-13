@@ -19,13 +19,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Check whether the CV page uses RenderCV
+        id: cv-format
+        run: |
+          python3 - <<'PY'
+          import os
+          import re
+          from pathlib import Path
+
+          page = Path("_pages/cv.md").read_text().split("---", 2)[1]
+          enabled = bool(re.search(r"^layout:\s*cv\s*$", page, re.M) and re.search(r"^cv_format:\s*rendercv\s*(?:#.*)?$", page, re.M))
+          with open(os.environ["GITHUB_OUTPUT"], "a") as output:
+              output.write(f"enabled={str(enabled).lower()}\n")
+          print("RenderCV enabled" if enabled else "Skipping RenderCV: the CV page uses an uploaded PDF or another format.")
+          PY
       - uses: actions/setup-python@v5
+        if: steps.cv-format.outputs.enabled == 'true'
         with:
           python-version: "3.12"
       - name: Install RenderCV
+        if: steps.cv-format.outputs.enabled == 'true'
         run: |
           pip install -r requirements.txt
       - name: RenderCV
+        if: steps.cv-format.outputs.enabled == 'true'
         run: |
           cv_file=$(find _data  -maxdepth 1 -type f \( -name "cv.yaml" -o -name "cv.yml" \))
           if [ -z "$cv_file" ]; then
@@ -45,11 +62,13 @@ jobs:
           rendercv render $cv_file --settings $settings
           rm assets/rendercv/rendercv_output/*.typ
       - name: Upload rendercv_output as an artifact
+        if: steps.cv-format.outputs.enabled == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: RenderCV Output
           path: assets/rendercv/rendercv_output
       - name: Push the changes
+        if: steps.cv-format.outputs.enabled == 'true'
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
