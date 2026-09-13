@@ -29,6 +29,6 @@ latest_posts:
 
 My name is Hyo Joo Lee (이효주), and I am a Postdoctoral Research in Social Science Research Services and the Department of Sociology at the University of Wisconsin-Madison.
 
-As a family demographer and social inequality scholar, I study how family processes contribute to the reproduction of socioeconomic gender inequality within households and across generations. In particular, I examine how demographic, social, and institutional changes—such as fertility decline, women’s rising educational attainment, and family policy reforms—reshape the organization of care and distribution of resources witin families.
+As a family demographer and social inequality scholar, I study how family processes contribute to the reproduction of socioeconomic gender inequality within households and across generations. In particular, I examine how demographic, social, and institutional changes—such as fertility decline, women's rising educational attainment, and family policy reforms—reshape the organization of care and distribution of resources witin families.
 
 Methodologically, I leverage large-scale and complex data, including administrative records, longitudinal panel surveys, and text data. I construct novel linkages across data sources and apply advanced quantitative methods, including causal inference and machine learning, to uncover patterns and processes that would be difficult to observe in any single dataset.
