@@ -46,3 +46,60 @@ html[data-theme="dark"] {
 .profile .more-info {
   font-family: inherit;
 }
+
+.teaching-experience {
+  margin-top: 3rem;
+
+  h2 {
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--global-divider-color);
+  }
+
+  h3 {
+    margin: 1.75rem 0 1.25rem;
+  }
+
+  .teaching-award {
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.5rem;
+    border-left: 3px solid var(--global-theme-color);
+    background: var(--global-code-bg-color);
+
+    p {
+      margin: 0;
+      line-height: 1.7;
+    }
+  }
+
+  .teaching-course-list {
+    margin-top: 1.5rem;
+  }
+
+  .teaching-course {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr);
+    gap: 1rem 2rem;
+    padding: 1.25rem 0;
+    border-bottom: 1px solid var(--global-divider-color);
+
+    h4 {
+      margin: 0;
+      font-size: 1rem;
+      font-weight: 600;
+      line-height: 1.6;
+    }
+
+    p {
+      margin: 0;
+      line-height: 1.6;
+      color: var(--global-text-color-light);
+    }
+  }
+
+  @media (max-width: 575px) {
+    .teaching-course {
+      grid-template-columns: 1fr;
+      gap: 0.4rem;
+    }
+  }
+}
