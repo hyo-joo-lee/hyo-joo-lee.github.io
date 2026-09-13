@@ -32,3 +32,5 @@ My name is Hyo Joo Lee (이효주), and I am a Postdoctoral Researcher at the Ce
 As a family demographer and social inequality scholar, I study how family processes contribute to the reproduction of socioeconomic and gender inequality. In particular, I examine how demographic, social, and institutional changes—such as demographic transitions, women's rising educational attainment, and family policy reforms—reshape the organization of care and distribution of resources within and across families, and how their implications differ across social contexts.
 
 Methodologically, I leverage large-scale and complex data, including administrative records, longitudinal panel surveys, and text data. I construct novel linkages across data sources and apply advanced quantitative methods, including causal inference and machine learning, to uncover patterns and processes that would be difficult to observe in any single dataset.
+
+Outside of work, I enjoy running outdoors, exploring trails and nature, and occasionally catching live music.
