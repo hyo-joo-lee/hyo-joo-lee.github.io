@@ -33,6 +33,11 @@
 @use "typograms";
 
 // Site palette and profile typography.
+html {
+  overflow-y: scroll;
+  scrollbar-gutter: stable;
+}
+
 :root {
   --global-theme-color: #2455a4;
   --global-hover-color: #183b73;
@@ -45,6 +50,36 @@ html[data-theme="dark"] {
 
 .profile .more-info {
   font-family: inherit;
+}
+
+// Keep desktop menu positions independent of font and icon loading.
+@media (min-width: 576px) {
+  #navbar .navbar-menu-list > .nav-item {
+    flex: 0 0 auto;
+  }
+
+  #navbar .navbar-menu-list > .nav-item > .nav-link {
+    width: 5.5rem;
+    text-align: left;
+    white-space: nowrap;
+  }
+
+  #navbar .navbar-menu-list > .nav-item > .nav-link[href$="/publications/"] {
+    width: 8rem;
+  }
+
+  #navbar .navbar-menu-list > .nav-item > .nav-link[href$="/cv/"] {
+    width: 3.5rem;
+  }
+
+  #navbar #search-toggle {
+    width: 5rem;
+    text-align: left;
+  }
+
+  #navbar .toggle-container {
+    flex: 0 0 2rem;
+  }
 }
 
 .teaching-experience {
