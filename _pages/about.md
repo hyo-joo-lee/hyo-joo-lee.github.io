@@ -2,8 +2,11 @@
 layout: about
 title: about
 permalink: /
+nav: true
+nav_order: 1
+
 subtitle: >
-  Postdoctoral Researcher ·
+  Postdoctoral Research Associate ·
   <a href="https://cde.wisc.edu/">Center for Demography and Ecology</a> ·
   <a href="https://sociology.wisc.edu/">Department of Sociology</a> ·
   University of Wisconsin–Madison
@@ -32,7 +35,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Hyo Joo Lee (이효주), and I am a Postdoctoral Researcher at the Center for Demography and Ecology and the Department of Sociology at the University of Wisconsin-Madison.
+My name is Hyo Joo Lee (이효주), and I am a Postdoctoral Research Associate at the Center for Demography and Ecology and the Department of Sociology at the University of Wisconsin-Madison.
 
 As a family demographer and social inequality scholar, I study how family processes contribute to the reproduction of socioeconomic and gender inequality. In particular, I examine how demographic, social, and institutional changes—such as demographic transitions, women's rising educational attainment, and family policy reforms—reshape the organization of care and distribution of resources within and across families, and how their implications differ across social contexts.
 
