@@ -9,12 +9,12 @@ subtitle: >
   University of Wisconsin–Madison
 
 profile:
-  align: right
+  align: left
   image: HJL_prof_pic2.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="mailto:hlee545@wisc.edu">hlee545@wisc.edu</a></p>
-    <p>4329 William H. Sewell Social Sciences Building</p>
+    <p>4329 Social Sciences Bldg.</p>
     <p>1180 Observatory Drive</p>
     <p>Madison, WI 53706</p>
 
