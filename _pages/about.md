@@ -2,19 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Postdoctoral Researcher ·
+  <a href="https://cde.wisc.edu/">Center for Demography and Ecology</a> ·
+  <a href="https://sociology.wisc.edu/">Department of Sociology</a> ·
+  University of Wisconsin–Madison
 
 profile:
   align: right
   image: HJL_prof_pic2.png
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p><a href="mailto:hlee545@wisc.edu">hlee545@wisc.edu</a></p>
     <p>4329 William H. Sewell Social Sciences Building</p>
     <p>1180 Observatory Drive</p>
     <p>Madison, WI 53706</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
