@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: HJL_prof_pic2.jpg
+  image: HJL_prof_pic2.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>4329 William H. Sewell Social Sciences Building</p>
