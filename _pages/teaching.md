@@ -45,6 +45,10 @@ Across these courses, I designed and led weekly discussion sections, developed c
 
 ## Mentoring Experience
 
+### University of Wisconsin-Madison
+
+Mentored undergraduate students on academic pathways, graduate education, and preparation for academic careers.
+
 ### NextGenPop
 
 Mentored undergraduate students on independent population research projects culminating in presentations at the Population Association of America Annual Meeting.
@@ -52,7 +56,3 @@ Mentored undergraduate students on independent population research projects culm
 ### Cornell University
 
 Served as a graduate peer mentor, supporting graduate students' academic and professional development.
-
-### University of Wisconsin-Madison
-
-Mentored undergraduate students on academic pathways, graduate education, and preparation for academic careers.
