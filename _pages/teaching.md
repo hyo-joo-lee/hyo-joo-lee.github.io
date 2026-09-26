@@ -6,7 +6,11 @@ nav: true
 nav_order: 6
 ---
 
-I view teaching sociology as an opportunity to help students look beyond taken-for-granted explanations and recognize how institutions and social structures shape individual lives. In my classroom, students examine the assumptions embedded in concepts, data, and social categories, evaluate competing explanations with empirical evidence, and connect sociological theory to contemporary issues. I cultivate an inclusive and collaborative learning environment where students from different backgrounds can contribute their perspectives and grow as confident, independent thinkers.
+My goal as a sociology instructor is to help students understand how individual lives are shaped by both social change and enduring social forces. I encourage students to question taken-for-granted explanations, connect personal experiences to broader social processes, and use sociological theories as analytical tools that can be applied, evaluated, and refined in light of contemporary social issues.
+
+In the classroom, I emphasize active learning and application. I ask students to explain key concepts in their own words, compare different interpretations, and test how well sociological ideas travel beyond the textbook. I also encourage students to examine what social categories and empirical evidence make visible—and what they may obscure—especially when studying inequality across diverse populations.
+
+I have also mentored undergraduate students on independent research projects and supported their academic and professional development.
 
 <section class="teaching-experience" markdown="1">
 
@@ -38,3 +42,17 @@ Across these courses, I designed and led weekly discussion sections, developed c
 </div>
 
 </section>
+
+## Mentoring Experience
+
+### NextGenPop
+
+Mentored undergraduate students on independent population research projects culminating in presentations at the Population Association of America Annual Meeting.
+
+### Cornell University
+
+Served as a graduate peer mentor, supporting graduate students' academic and professional development.
+
+### University of Wisconsin-Madison
+
+Mentored undergraduate students on academic pathways, graduate education, and preparation for academic careers.
