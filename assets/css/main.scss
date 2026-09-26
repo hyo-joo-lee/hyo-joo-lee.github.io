@@ -222,6 +222,7 @@ html[data-theme="dark"] {
   }
 }
 
-.post-header .post-title {
-  font-weight: 700;
+.post-header .post-title,
+.post-header .post-title * {
+  font-weight: 700 !important;
 }
