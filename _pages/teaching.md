@@ -18,30 +18,16 @@ I have also mentored undergraduate students on independent research projects and
 
 ### Cornell University
 
-<div class="teaching-award" markdown="1">
-
-**Graduate Teaching Award**, Department of Sociology, 2023 (Overall section evaluation: 4.9/5.0, Quality of the TA's teaching: 5.0/5.0)
-
-</div>
+**Graduate Teaching Award**, Department of Sociology, 2023  
+*Overall section evaluation: 4.9/5.0 · Quality of the TA's teaching: 5.0/5.0*
 
 Across these courses, I designed and led weekly discussion sections, developed course materials and grading rubrics, and supported an inclusive learning environment.
 
-<div class="teaching-course-list">
-  <div class="teaching-course">
-    <h4>Introduction to Sociology</h4>
-    <p>Teaching Assistant, Spring 2022, Fall 2022, Spring 2023, Fall 2023</p>
-  </div>
-  <div class="teaching-course">
-    <h4>Controversies About Inequality</h4>
-    <p>Teaching Assistant, Fall 2020, Fall 2021</p>
-  </div>
-  <div class="teaching-course">
-    <h4>Social Inequality</h4>
-    <p>Teaching Assistant, Spring 2021</p>
-  </div>
-</div>
+**Introduction to Sociology** — Teaching Assistant, SP2022 · FA2022 · SP2023 · FA2023
 
-</section>
+**Controversies About Inequality** — Teaching Assistant, FA2020 · FA2021
+
+**Social Inequality** — Teaching Assistant, SP2021
 
 ## Mentoring Experience
 
