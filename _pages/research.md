@@ -2,8 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: A growing collection of your cool projects.
-nav: false
+nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
@@ -11,8 +10,8 @@ horizontal: false
 
 My research spans family demography, social stratification, and gender. Across projects, I examine how family life and patterns of social inequality shift amid demographic and institutional changes.
 
-<section class="research-section">
-  <div class="research-text">
+<section class="research-section" markdown="1">
+  <div class="research-text" markdown="1">
 
 ## Parenting and Parental Investment in Children
 
@@ -31,9 +30,9 @@ I study how different families raise children and allocate resources to them, an
   </figure>
 </section>
 
-<section class="research-section">
-  <div class="research-text">
-
+<section class="research-section" markdown="1">
+  <div class="research-text" markdown="1">
+    
 ## Demographic Change, Kin Availability, and Care Resources
 
 I study how demographic change reshapes the kin and institutional resources available to families across generations and places, and how their implications vary across social contexts. As a postdoctoral researcher at the University of Wisconsin–Madison, I am currently involved in several projects examining changes in kin availability over time and across demographic contexts.
