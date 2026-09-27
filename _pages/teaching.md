@@ -23,11 +23,11 @@ I have also mentored undergraduate students on independent research projects and
 
 Across these courses, I designed and led weekly discussion sections, developed course materials and grading rubrics, and supported an inclusive learning environment.
 
-**Introduction to Sociology** — Teaching Assistant, SP2022 · FA2022 · SP2023 · FA2023
+**Introduction to Sociology** — Teaching Assistant, SP22 · FA22 · SP23 · FA23
 
-**Controversies About Inequality** — Teaching Assistant, FA2020 · FA2021
+**Controversies About Inequality** — Teaching Assistant, FA20 · FA21
 
-**Social Inequality** — Teaching Assistant, SP2021
+**Social Inequality** — Teaching Assistant, SP21
 
 ## Mentoring Experience
 
