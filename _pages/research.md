@@ -9,17 +9,24 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-My research spans family demography, social stratification, and gender. Across projects, I examine how demographic and institutional change reshapes family life and patterns of social inequality across groups.
+My research spans family demography, social stratification, and gender. Across projects, I examine how family life and patterns of social inequality shift amid demographic and institutional changes.
 
 ## Parenting, Childcare, Parental Investment in Children
-I examine socioeconomic inequality in parental investment in children and how it has changed over time. My work considers both changes in family composition, including educational assortative mating, and differences in economic resources across families to understand shifting patterns of parental financial investment in the United States.
 
-[Educational Assortative Mating and Changing Patterns of Parental Financial Investment in Children, 1990–2024](PAPER_LINK)  
+I study how different families raise children and allocate resources to them, and how these patterns change as families and the broader social context change. My work examines how family composition, socioeconomic resources, and demographic and institutional shifts shape parental investment across groups and over time.
 
-## Demographic Change and Resources Available to Children
+> Lee, H. J. (2026). [Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024](https://doi.org/10.1016/j.ssresearch.2026.103347). *Social Science Research, 136*, 103347.
 
-I examine how broader demographic shifts reshape the institutional and social resources available to children and families. One strand of this work studies how fertility decline affects the availability of early education and care in South Korea. I am also interested in how population change affects the representativeness of longitudinal data used to study families across generations.
+## Demographic Change, Kin Availability, and Care Resources
+
+I study how demographic change reshapes the kin and institutional resources available to families across generations and places, and how their implications vary across social contexts. As a postdoctoral researcher at the University of Wisconsin–Madison, I am currently involved in several projects examining changes in kin availability over time and across demographic contexts.
+
+> Lee, H. J. Childcare center closures following fertility decline: Changing early education and care availability in South Korea. *Population Research and Policy Review*. Conditional accept.
 
 ## Work, Family, and Gender Inequality
 
-I study how institutions and labor-market processes contribute to gender inequality in work and family life. My work in this area examines gender disparities in academic careers, workplace compensation systems, and organizational responses to family policies.
+I study how institutions, policies, and labor-market contexts shape gender inequality and family well-being. My work has examined organizational responses to family policies, how social policy shapes parental well-being across socioeconomic groups, and gender disparities in academic careers.
+
+> Lee, H. J., Lee, S., & Kim, Y.-M. (2022). A change in the pay system and its impact on within-firm wage gap: A firm-case study. *Economy and Society*, 235–265. (in Korean)
+
+> Lee, H. J., & Kim, Y.-M. (2018). The effect of normative isomorphic pressure on adoption and implementation of policies at organizational level: Focusing on parental leave in Korea. *Social Science Review, 49*(1), 286–307. (in Korean)
