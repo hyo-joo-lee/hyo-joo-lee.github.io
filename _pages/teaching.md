@@ -37,7 +37,7 @@ Mentored undergraduate students on academic pathways, graduate education, and pr
 
 ### NextGenPop
 
-Mentored undergraduate students on independent population research projects culminating in presentations at the Population Association of America Annual Meeting.
+Grateful to have mentored wonderful undergraduate students on independent population research projects culminating in presentations at the Population Association of America Annual Meeting.
 
 ### Cornell University
 
