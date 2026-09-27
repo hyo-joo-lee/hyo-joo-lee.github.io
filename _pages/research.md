@@ -10,6 +10,7 @@ horizontal: false
 
 My research spans family demography, social stratification, and gender. Across projects, I examine how family life and patterns of social inequality shift amid demographic and institutional changes.
 
+
 <section class="research-section" markdown="1">
   <div class="research-text" markdown="1">
 
