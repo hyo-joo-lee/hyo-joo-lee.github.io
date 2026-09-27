@@ -12,11 +12,12 @@ In the classroom, I emphasize active learning and application. I ask students to
 
 I have also mentored undergraduate students on independent research projects and supported their academic and professional development.
 
+
 <section class="teaching-experience" markdown="1">
 
-## Teaching Experience
+<h2 class="teaching-heading">Teaching Experience</h2>
 
-### Cornell University
+<h3 class="teaching-institution">Cornell University</h3>
 
 **Graduate Teaching Award**, Department of Sociology, 2023  
 *Overall section evaluation: 4.9/5.0 · Quality of the TA's teaching: 5.0/5.0*
@@ -29,16 +30,17 @@ Across these courses, I designed and led weekly discussion sections, developed c
 
 **Social Inequality** — Teaching Assistant, SP21
 
-## Mentoring Experience
 
-### University of Wisconsin-Madison
+<h2 class="teaching-heading">Mentoring Experience</h2>
+
+<h3 class="teaching-institution">University of Wisconsin–Madison</h3>
 
 Mentored undergraduate students on academic pathways, graduate education, and preparation for academic careers.
 
-### NextGenPop
+<h3 class="teaching-institution">NextGenPop</h3>
 
 Grateful to have mentored wonderful undergraduate students on independent population research projects culminating in presentations at the Population Association of America Annual Meeting.
 
-### Cornell University
+<h3 class="teaching-institution">Cornell University</h3>
 
 Served as a graduate peer mentor, supporting graduate students' academic and professional development.
