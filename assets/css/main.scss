@@ -54,11 +54,7 @@ html[data-theme="dark"] {
 }
 
 // Keep desktop menu positions independent of font and icon loading.
-#navbar .navbar-brand {
-  font-weight: 700 !important;
-}
-
-#navbar .navbar-brand * {
+#navbar .navbar-brand.title.font-weight-lighter {
   font-weight: 700 !important;
 }
 
