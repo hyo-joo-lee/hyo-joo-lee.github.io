@@ -9,57 +9,17 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+My research spans family demography, social stratification, and gender. Across projects, I examine how demographic and institutional change reshapes family life and patterns of social inequality across groups.
 
-{% else %}
+## Parenting, Childcare, Parental Investment in Children
+I examine socioeconomic inequality in parental investment in children and how it has changed over time. My work considers both changes in family composition, including educational assortative mating, and differences in economic resources across families to understand shifting patterns of parental financial investment in the United States.
 
-<!-- Display projects without categories -->
+[Educational Assortative Mating and Changing Patterns of Parental Financial Investment in Children, 1990–2024](PAPER_LINK)  
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+## Demographic Change and Resources Available to Children
 
-  <!-- Generate cards for each project -->
+I examine how broader demographic shifts reshape the institutional and social resources available to children and families. One strand of this work studies how fertility decline affects the availability of early education and care in South Korea. I am also interested in how population change affects the representativeness of longitudinal data used to study families across generations.
 
-{% if page.horizontal %}
+## Work, Family, and Gender Inequality
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+I study how institutions and labor-market processes contribute to gender inequality in work and family life. My work in this area examines gender disparities in academic careers, workplace compensation systems, and organizational responses to family policies.
