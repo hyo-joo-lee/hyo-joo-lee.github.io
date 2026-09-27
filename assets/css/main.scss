@@ -261,3 +261,27 @@ html[data-theme="dark"] {
     grid-template-columns: 1fr;
   }
 }
+
+/* Research page typography */
+.research-text h2 {
+  margin: 0 0 1rem;
+  font-size: 1.55rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.research-text blockquote {
+  margin-top: 1.25rem;
+  padding: 0.75rem 0 0.75rem 1rem;
+}
+
+.research-text blockquote p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* More space between research overview and first research section */
+.research-section:first-of-type {
+  margin-top: 2.5rem;
+}
