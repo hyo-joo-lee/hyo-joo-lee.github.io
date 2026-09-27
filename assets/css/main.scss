@@ -315,3 +315,19 @@ html[data-theme="dark"] {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
 }
+
+.teaching-heading {
+  margin: 2.5rem 0 1.25rem !important;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  font-size: 1.4rem !important;
+  font-weight: 700 !important;
+  line-height: 1.25;
+}
+
+.teaching-institution {
+  margin: 1.5rem 0 0.9rem !important;
+  font-size: 1.15rem !important;
+  font-weight: 700 !important;
+  line-height: 1.3;
+}
