@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 My goal as a sociology instructor is to help students understand how individual lives are shaped by both social change and enduring social forces. I encourage students to question taken-for-granted explanations, connect personal experiences to broader social processes, and use sociological theories as analytical tools that can be applied, evaluated, and refined in light of contemporary social issues.
