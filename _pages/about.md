@@ -5,8 +5,6 @@ permalink: /
 
 subtitle: >
   Postdoctoral Research Associate ·
-  <a href="https://cde.wisc.edu/">Center for Demography and Ecology</a> ·
-  <a href="https://sociology.wisc.edu/">Department of Sociology</a> ·
   University of Wisconsin–Madison
 
 profile:
