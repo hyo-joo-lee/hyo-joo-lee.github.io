@@ -11,17 +11,45 @@ horizontal: false
 
 My research spans family demography, social stratification, and gender. Across projects, I examine how family life and patterns of social inequality shift amid demographic and institutional changes.
 
-## Parenting, Childcare, Parental Investment in Children
+<section class="research-section">
+  <div class="research-text">
+
+## Parenting and Parental Investment in Children
 
 I study how different families raise children and allocate resources to them, and how these patterns change as families and the broader social context change. My work examines how family composition, socioeconomic resources, and demographic and institutional shifts shape parental investment across groups and over time.
 
 > Lee, H. J. (2026). [Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024](https://doi.org/10.1016/j.ssresearch.2026.103347). *Social Science Research, 136*, 103347.
+
+  </div>
+
+  <figure class="research-figure">
+    <img src="/assets/img/financialinvest_assort.png"
+         alt="Predicted expenditure on children by parents' educational pairing">
+    <figcaption>
+      Predicted expenditure on children by parents' educational pairing, 1990–2024.
+    </figcaption>
+  </figure>
+</section>
+
+<section class="research-section">
+  <div class="research-text">
 
 ## Demographic Change, Kin Availability, and Care Resources
 
 I study how demographic change reshapes the kin and institutional resources available to families across generations and places, and how their implications vary across social contexts. As a postdoctoral researcher at the University of Wisconsin–Madison, I am currently involved in several projects examining changes in kin availability over time and across demographic contexts.
 
 > Lee, H. J. Childcare center closures following fertility decline: Changing early education and care availability in South Korea. *Population Research and Policy Review*. Conditional accept.
+
+  </div>
+
+  <figure class="research-figure">
+    <img src="/assets/img/childcare_availability.png"
+         alt="Childcare availability across South Korea">
+    <figcaption>
+      Childcare availability across South Korea, measured as slots per child.
+    </figcaption>
+  </figure>
+</section>
 
 ## Work, Family, and Gender Inequality
 
