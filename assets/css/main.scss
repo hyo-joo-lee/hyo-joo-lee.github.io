@@ -307,6 +307,10 @@ html[data-theme="dark"] {
   line-height: inherit;
 }
 
+.research-citation + .research-citation {
+  margin-top: 0.85rem;
+}
+
 .research-section {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
