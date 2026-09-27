@@ -285,3 +285,29 @@ html[data-theme="dark"] {
 .research-section:first-of-type {
   margin-top: 2.5rem;
 }
+
+.research-heading {
+  margin: 0 0 1rem !important;
+  font-size: 1.4rem !important;
+  font-weight: 700 !important;
+  line-height: 1.25 !important;
+}
+
+.research-citation {
+  margin-top: 1.25rem;
+  padding: 0.65rem 0 0.65rem 1rem;
+  border-left: 3px solid var(--global-theme-color);
+  font-size: 0.85rem !important;
+  line-height: 1.5;
+}
+
+.research-citation p {
+  margin: 0;
+  font-size: inherit !important;
+  line-height: inherit;
+}
+
+.research-section {
+  margin-top: 3rem;
+  margin-bottom: 3.5rem;
+}
