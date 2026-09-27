@@ -40,7 +40,7 @@ Lee, H. J. (2026). [Educational assortative mating and changing patterns of pare
     
 <h2 class="research-heading">Demographic Change, Kin Availability, and Care Resources</h2>
 
-I study how demographic change reshapes the kin and institutional resources available to families across generations and places, and how their implications vary across social contexts. As a postdoctoral researcher at the University of Wisconsin–Madison, I am currently involved in several projects examining changes in kin availability over time and across demographic contexts.
+How does demographic change reshape the kin and institutional resources available to families across generations and places? Rather than viewing fertility and mortality change in isolation, I examine how broader demographic shifts reorganize family structures, caregiving networks, and the resources families can draw on. As a postdoctoral researcher at the UW-Madison, I am currently involved in several projects examining changes in kin availability over time and across social contexts.
 
 <div class="research-citation" markdown="1">
   
@@ -54,7 +54,7 @@ Lee, H. J. Childcare center closures following fertility decline: Changing early
     <img src="/assets/img/childcare_availability.png"
          alt="Childcare availability across South Korea">
     <figcaption>
-      Childcare availability across South Korea, measured as slots per child.
+      Childcare availability across South Korea in 2022, measured as slots per child.
     </figcaption>
   </figure>
 </section>
@@ -62,12 +62,16 @@ Lee, H. J. Childcare center closures following fertility decline: Changing early
 
 <h2 class="research-heading">Work, Family, and Gender Inequality</h2>
 
-I study how institutions, policies, and labor-market contexts shape gender inequality and family well-being. My work has examined organizational responses to family policies, how social policy shapes parental well-being across socioeconomic groups, and gender disparities in academic careers.
+How do institutions and policies shape unequal experiences of work and family life? I examine how organizational practices and family policies structure opportunities and well-being across gender and socioeconomic groups. This work includes research on workplace responses to family policies, parental well-being, and gender inequality in academic careers.
 
 <div class="research-citation" markdown="1">
 
 Lee, H. J., Lee, S., & Kim, Y.-M. (2022). A change in the pay system and its impact on within-firm wage gap: A firm-case study. *Economy and Society*, 235–265. (in Korean)
 
+</div>
+
+<div class="research-citation" markdown="1">
+  
 Lee, H. J., & Kim, Y.-M. (2018). The effect of normative isomorphic pressure on adoption and implementation of policies at organizational level: Focusing on parental leave in Korea. *Social Science Review, 49*(1), 286–307. (in Korean)
 
 </div>
