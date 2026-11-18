@@ -20,7 +20,7 @@ How do different families raise children and allocate resources to them, and how
 
 <div class="research-citation" markdown="1">
 
-Lee, H. J. (2026). [Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024](https://doi.org/10.1016/j.ssresearch.2026.103347). *Social Science Research* 136: 103347.
+Lee, H. J. (2026). [Educational assortative mating and changing patterns of parental financial investment in children, 1990–2024](https://doi.org/10.1016/j.ssresearch.2026.103347). _Social Science Research, 136,_ Article 103347.
 
 </div>
 
@@ -44,7 +44,7 @@ How does demographic change reshape the kin and institutional resources availabl
 
 <div class="research-citation" markdown="1">
   
-Lee, H. J. (2026). [Childcare center closures following fertility decline: Changing early education and care availability in South Korea](https://link.springer.com/article/10.1007/s11113-026-10041-3). *Population Research and Policy Review* 45: 60.
+Lee, H. J. (2026). [Childcare center closures following fertility decline: Changing early education and care availability in South Korea](https://link.springer.com/article/10.1007/s11113-026-10041-3). _Population Research and Policy Review, 45_, Article 60.
 
 </div>
 
@@ -66,13 +66,13 @@ How do institutions and policies shape unequal experiences of work and family li
 
 <div class="research-citation" markdown="1">
 
-Lee, H. J., Lee, S., & Kim, Y.-M. (2022). A change in the pay system and its impact on within-firm wage gap: A firm-case study. *Economy and Society*, 235–265. (in Korean)
+Lee, H. J., Lee, S., & Kim, Y.-M. (2022). A change in the pay system and its impact on within-firm wage gap: A firm-case study. _Economy and Society_ 235–265. (in Korean)
 
 </div>
 
 <div class="research-citation" markdown="1">
   
-Lee, H. J., & Kim, Y.-M. (2018). The effect of normative isomorphic pressure on adoption and implementation of policies at organizational level: Focusing on parental leave in Korea. *Social Science Review, 49*(1), 286–307. (in Korean)
+Lee, H. J., & Kim, Y.-M. (2018). The effect of normative isomorphic pressure on adoption and implementation of policies at organizational level: Focusing on parental leave in Korea. _Social Science Review 49_(1), 286–307. (in Korean)
 
 </div>
 
