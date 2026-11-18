@@ -44,7 +44,7 @@ How does demographic change reshape the kin and institutional resources availabl
 
 <div class="research-citation" markdown="1">
   
-Lee, H. J. (2026). [Childcare center closures following fertility decline: Changing early education and care availability in South Korea] (https://link.springer.com/article/10.1007/s11113-026-10041-3). *Population Research and Policy Review* 45: 60.
+Lee, H. J. (2026). [Childcare center closures following fertility decline: Changing early education and care availability in South Korea](https://link.springer.com/article/10.1007/s11113-026-10041-3). *Population Research and Policy Review* 45: 60.
 
 </div>
 
